@@ -1,8 +1,8 @@
    const CONFIG = {
             api: {
                 region: 'www',
-                appId: '9e857529-b31a-4452-9791-f3f10b95aaad',
-                accessKey: 'V2-hCB7E-rgYoG-x4o52-5DrGd-1tZ0k-QwoYJ-xksUy-BASob',
+                appId: '578c7c5a-2322-415f-a23d-22c8a3e0e254',
+                accessKey: 'V2-zsybA-5gDGD-N7N5o-lv18e-5SU84-7NWlc-gFEM3-1eilD',
                 tableName: 'Report'
             }
         };
